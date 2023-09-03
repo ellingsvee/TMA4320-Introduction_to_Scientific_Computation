@@ -1,2 +1,6 @@
 # TMA4320-Introduction_to_Scientific_Computation
-About TMA4320 is an introductory course on numerical mathematics and scientific computation at NTNU. The teaching consists of three compulsory projects. The projects where completed in groups of three. This repository contains my group´s final projects.
+Project 1: Using the Metropolis algorithm, which is a Markov Chain Monte Carlo method, we studied formation of membrane-less organells.
+
+Project 2: We used different order Runge Kutta methods to study the behavior of swedish historical ship Vasa. 
+
+Project 3: In this project we utalized Non-negative Matrix factorization to denoise images of Cryptopunks. 
